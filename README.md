@@ -1,0 +1,2 @@
+# Frootibear
+Discord webhooks
